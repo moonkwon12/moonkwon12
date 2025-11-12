@@ -1,16 +1,6 @@
 <!-- GitHub Profile README for moonkwon12 -->
 
 <h1 align="center">👋 Hi, I'm Moonkwon Kim</h1>
-<h3 align="center">Software Engineer & AI Developer | Hansung University</h3>
-
----
-
-### 🧭 About Me
-- 🎓 한성대학교 컴퓨터공학 전공  
-- 💡 인공지능(AI) 기반 실시간 협업 시스템과 웹 기술에 관심이 많습니다.  
-- 🧠 주요 연구 분야: **STT(Speech-to-Text), NLP, LLM Fine-tuning (LoRA), Realtime Web Collaboration**
-
----
 
 ### 🏆 Achievements
 - 🥇 **제 1회 한성SW중심대학 페스티벌 캡스톤 전시회 최우수상** (2024.11.29)  
@@ -68,9 +58,6 @@
 ---
 
 ### 📫 Contact
-- 📧 Email: [tofhadlfksek@gmail.com](mailto:tofhadlfksek@gmail.com)  
-- 🔗 Blog: [https://blog.naver.com/pposisi3](https://blog.naver.com/pposisi3)  
+- 📧 Email: [ok63477@gmail.com](mailto:ok63477@gmail.com)   
 
 ---
-
-<h4 align="center">⭐️ “코드는 사람과 사람을 연결하는 언어” ⭐️</h4>
