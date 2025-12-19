@@ -13,9 +13,6 @@
 
 ### 🚀 Projects
 
-#### 🛒 [Shop4](https://github.com/moonkwon12/shop4-front)
-> **React + Spring Boot 기반 웹 쇼핑몰 프로젝트**  
-
 #### 💌 [For You](https://github.com/BestDAOU)
 > AI 기반 맞춤형 문자메시지 자동 생성 플랫폼  
 
