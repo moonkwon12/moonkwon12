@@ -13,8 +13,11 @@
 
 ### 🚀 Projects
 
+#### 🛒 [Shop4](https://github.com/moonkwon12/shop4-front)
+> **React + Spring Boot 기반 웹 쇼핑몰 프로젝트**  
+
 #### 💌 [For You](https://github.com/BestDAOU)
-> AI 기반 맞춤형 문자메시지 자동 생성 플랫폼   
+> AI 기반 맞춤형 문자메시지 자동 생성 플랫폼  
 
 #### 🧩 [MindRoad](https://github.com/Funny-nodes/MindRoad)
 > 실시간 음성 회의 내용을 마인드맵 형태로 시각화하는 AI 협업 플랫폼  
@@ -22,8 +25,6 @@
 ---
 
 ### 💻 Tech Stack
-
-<p align="center">
 
 <p align="center">
 
@@ -56,6 +57,7 @@
 <img src="https://img.shields.io/badge/Pinecone-0E5EFF?style=flat&logo=pinecone&logoColor=white" height="30"/>
 
 </p>
+
 ---
 
 ### 📊 GitHub Stats
@@ -68,6 +70,6 @@
 ---
 
 ### 📫 Contact
-- 📧 Email: [ok63477@gmail.com](mailto:ok63477@gmail.com)   
+- 📧 Email: [ok63477@gmail.com](mailto:ok63477@gmail.com)
 
 ---
