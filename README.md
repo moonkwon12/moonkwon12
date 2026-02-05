@@ -52,21 +52,21 @@
 <details>
 <summary>💼 <b>정보처리기사</b></summary>
 <br>
-<img width="20%" alt="0-20260107160047685_1" src="./assets/정처기가리기.png"/>
+<img width="400" alt="0-20260107160047685_1" src="./assets/정처기가리기.png"/>
 </details>
 
 <!-- SQLD -->
 <details>
 <summary>💼 <b>SQLD (데이터베이스 개발자)</b></summary>
 <br>
-<img src="./assets/SQLD가리기.png" width="20%"/>
+<img src="./assets/SQLD가리기.png" width="400"/>
 </details>
 
 <!-- AI-POT -->
 <details>
 <summary>💼 <b>AI-POT</b></summary>
 <br>
-<img width="20%" alt="report_1" src="./assets/AiPOT가리기.png" />
+<img width="400" alt="report_1" src="./assets/AiPOT가리기.png" />
 </details>
 
 ---
