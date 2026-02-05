@@ -19,7 +19,7 @@
 <details>
 <summary>🥉 <b>한성대학교 캡스톤디자인 웹 부문 장려상</b> (2025.05.30)</summary>
 <br>
-<img src="./images/award2.png" width="700"/>
+<img src="./assets/sw.jpeg" width="300"/>
 </details>
 
 <!-- 📄 논문 -->
