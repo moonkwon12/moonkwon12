@@ -101,6 +101,7 @@
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D" height="30"/>
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" height="30"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" height="30"/>  <!-- ✅ 추가 -->
 <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" height="30"/>
 <br>
 
