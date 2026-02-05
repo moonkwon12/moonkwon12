@@ -52,21 +52,21 @@
 <details>
 <summary>💼 <b>정보처리기사</b></summary>
 <br>
-<img width="20%" alt="0-20260107160047685_1" src="https://github.com/user-attachments/assets/6df5dcac-545c-4ed5-8fe0-a38f73247b59"/>
+<img width="20%" alt="0-20260107160047685_1" src="./assets/정처기가리기.png"/>
 </details>
 
 <!-- SQLD -->
 <details>
 <summary>💼 <b>SQLD (데이터베이스 개발자)</b></summary>
 <br>
-<img width="20%" alt="noname_1" src="https://github.com/user-attachments/assets/2ef038a1-677f-4347-a95b-59caac674ab4" />
+<img src="./assets/SQLD가리기.png" width="20%"/>
 </details>
 
 <!-- AI-POT -->
 <details>
 <summary>💼 <b>AI-POT</b></summary>
 <br>
-<img width="20%" alt="report_1" src="https://github.com/user-attachments/assets/99f75678-6ad7-4830-a2bb-b57934d26f41" />
+<img width="20%" alt="report_1" src="./assets/AiPOT가리기.png" />
 </details>
 
 ---
