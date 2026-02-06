@@ -12,14 +12,14 @@
 <details>
 <summary>🥇 <b>제 1회 한성SW중심대학 페스티벌 캡스톤 전시회 최우수상</b> (2024.11.29)</summary>
 <br>
-<img src="./images/award1.png" width="700"/>
+<img src="./assets/sw.jpeg" width="400"/>
 </details>
 
 <!-- 🥉 장려상 -->
 <details>
 <summary>🥉 <b>한성대학교 캡스톤디자인 웹 부문 장려상</b> (2025.05.30)</summary>
 <br>
-<img src="./assets/sw.jpeg" width="300"/>
+<img src="./assets/캡스톤.jpg" width="400"/>
 </details>
 
 <!-- 📄 논문 -->
