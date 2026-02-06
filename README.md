@@ -36,13 +36,21 @@
 
 ---
 
-### 🚀 Projects
+### 🚀 Team Projects
 
 #### 💌 [For You](https://github.com/BestDAOU)
 > AI 기반 맞춤형 문자메시지 자동 생성 플랫폼  
 
 #### 🧩 [MindRoad](https://github.com/Funny-nodes/MindRoad)
 > 실시간 음성 회의 내용을 마인드맵 형태로 시각화하는 AI 협업 플랫폼  
+
+---
+
+### 🧪 Personal / Mini Projects
+
+#### 🎮 [Java Socket Shooting Game](https://github.com/moonkwon12/ShootingGame)
+> TCP Socket 기반 실시간 1:1 멀티플레이 슈팅 게임  
+> 서버 중심(Server Authoritative) 구조와 대칭 시점(Mirror View)을 적용한 네트워크 게임 
 
 ---
 
