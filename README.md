@@ -52,7 +52,7 @@
 <details>
 <summary>💼 <b>정보처리기사</b></summary>
 <br>
-<img width="400" alt="0-20260107160047685_1" src="./assets/정처기가리기.png"/>
+<img width="400" alt="0-20260107160047685_1" src="./assets/정보처리기사.png"/>
 </details>
 
 <!-- SQLD -->
